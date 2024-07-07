@@ -1,0 +1,26 @@
+/* src/components/Search.css */
+.search-form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .search-input {
+    flex: 1;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    background-color: #2a2a2a;
+    color: white;
+  }
+  
+  .search-input:focus {
+    outline: none;
+    background-color: #3a3a3a;
+  }
+  
+  .search-button {
+    margin-left: 10px;
+    border-radius: 50px;
+  }
+  

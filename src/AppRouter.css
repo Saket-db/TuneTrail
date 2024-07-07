@@ -1,0 +1,21 @@
+/* src/AppRouter.css */
+.main-content {
+    padding-top: 80px; /* Ensure there is space for the fixed navbar */
+  }
+  
+  .navbar-dark .navbar-brand {
+    color: #1db954;
+  }
+  
+  .navbar-dark .nav-link {
+    color: white;
+  }
+  
+  .navbar-dark .nav-link:hover {
+    color: #1ed760;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  

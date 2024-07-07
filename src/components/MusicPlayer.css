@@ -1,0 +1,22 @@
+/* src/components/MusicPlayer.css */
+.music-player-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+  }
+  
+  .play-pause-button {
+    border: none;
+    background-color: #2a2a2a;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 50px;
+  }
+  
+  .play-pause-button:hover {
+    background-color: #3a3a3a;
+  }
+  
